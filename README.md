@@ -1,1 +1,3 @@
 # ETLpipeline
+
+I recently completed a comprehensive ETL pipeline project using Talend Open Studio and Oracle Cloud Platform, culminating in a Tableau dashboard that provides deep business insights.  I configured Talend to seamlessly integrate with an Oracle Data Warehouse, mastering the complexities of Java environments and secure data flow. The project resulted in a Tableau dashboard featuring key visualizations such as Highest Salesprice, SubCategory and Brand prices., each serving as powerful decision-making tools. This journey involved overcoming challenges like managing Slowly Changing Dimensions and ensuring precise data transformation, ultimately enhancing my skills in ETL processes and data visualization.
